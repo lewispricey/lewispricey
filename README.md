@@ -7,7 +7,7 @@ A Junior Software Engineer & Mentor @ Northcoders
 - ⚡ Fun fact: I used to be a professional freestyle scooter rider 🛴
 
 <br />
-<a href="https://tryhackme.com/p/lpriceyy" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/lpriceyy.png" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/lpriceyy" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/lpriceyy.png" alt="TryHackMe" height="60"></a>
 
 <br />
 <h3 align="left">Connect with me:</h3>

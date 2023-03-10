@@ -8,7 +8,7 @@ A Junior Software Engineer & Mentor @ Northcoders
 
 <br />
 <img src="https://tryhackme-badges.s3.amazonaws.com/lpriceyy.png" alt="TryHackMe">
-<br />
+
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">

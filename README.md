@@ -3,7 +3,7 @@
 A Junior Software Engineer & Mentor @ Northcoders 🚀
 
 - 🔭 Working on a safety app for solo travelers 🌍
-- 🌱 I’m experianced working with JS/TS
+- 🌱 I’m experienced working with JS/TS
 - 🧑‍🏫 Learning Go
 - ⚡ Fun fact: I used to be a professional freestyle scooter rider 🛴
 

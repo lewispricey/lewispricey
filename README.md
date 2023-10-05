@@ -1,9 +1,10 @@
 # Yooooooooo I'm Lewis 👋
 
-A Junior Software Engineer & Mentor @ Northcoders
+A Junior Software Engineer & Mentor @ Northcoders 🚀
 
 - 🔭 Working on a safety app for solo travelers 🌍
-- 🌱 I’m currently mainly working with JS/TS and learning cyber security in my spare time 🕵️‍♀️
+- 🌱 I’m experianced working with JS/TS
+- 🧑‍🏫 Learning Go
 - ⚡ Fun fact: I used to be a professional freestyle scooter rider 🛴
 
 <br />

@@ -1,6 +1,6 @@
 # Yooooooooo I'm Lewis 👋
 
-A Junior Software Engineer & Mentor @ Northcoders 🚀
+A Software Engineer & Mentor @ Northcoders 🚀
 
 - 🔭 Working on a family checkins app 🏡
 - 🌱 I’m experienced working with Typescript, Python, Terraform, Kubernetes.

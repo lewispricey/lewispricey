@@ -2,8 +2,8 @@
 
 A Junior Software Engineer & Mentor @ Northcoders 🚀
 
-- 🔭 Working on a safety app for solo travelers 🌍
-- 🌱 I’m experienced working with JS/TS
+- 🔭 Working on a family checkins app 🏡
+- 🌱 I’m experienced working with Typescript, Python, Terraform, Kubernetes.
 - 🧑‍🏫 Learning Go
 - ⚡ Fun fact: I used to be a professional freestyle scooter rider 🛴
 
@@ -13,4 +13,4 @@ A Junior Software Engineer & Mentor @ Northcoders 🚀
 <br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lewis-price/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lewis-price/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" fill="#FFFFFF"/></a>
